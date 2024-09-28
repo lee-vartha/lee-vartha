@@ -1,4 +1,4 @@
-Hey, I'm Lee, 19, studying my second year towards a Bachelor of IT. 	
+Hey, I'm Lee, 20, studying my second year towards a Bachelor of IT. 	
 	
 I'm learning HTML, CSS, JS, C#, SQL, Python and using tools like DBeaver, Visual Studio 2022, and Visual Studio Code. 
 
