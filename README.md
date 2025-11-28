@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing my Bachelor of Information Technology degree<br>👯 I’m looking to collaborate on UI frontend development and designing<br>💬 Ask me about how to develop music digitally and design website concepts<br>⚡ Fun fact about me is that I am also a musician that can play up to 5 instruments!
+🔭 I currently hold a Bachelor of Information Technology degree<br>👯 I’m looking to collaborate on UI frontend development and designing<br>💬 Ask me about how to develop music digitally and design website concepts<br>⚡ Fun fact about me is that I am also a musician that can play up to 5 instruments!
 
 
 # 💻 Tech Stack:
